@@ -67,6 +67,6 @@ check(quizList);
 
 console.log("End of the QUIZ!");
 console.log("Your final score is " + score);
-if(score>=9)console.log(chalk.blue("You are my closest friend!"));
-else if(score>=5 && score<9)console.log(chalk.gree("We are good friends."));
+if(score>=15)console.log(chalk.blue("You are my closest friend!"));
+else if(score>=5 && score<15)console.log(chalk.green("We are good friends."));
 else console.log("We need to talk more often :)");
