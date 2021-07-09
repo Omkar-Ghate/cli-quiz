@@ -23,7 +23,7 @@ var chalk=require('chalk');
 var takeinput=require('readline-sync');
 var q1={
   ques:"Well do you know my name?",
-  answer:"Omkar Ghate"
+  ans:"Omkar Ghate"
 }
 var q2={
   ques:"Guess my age if I am millennial?",
