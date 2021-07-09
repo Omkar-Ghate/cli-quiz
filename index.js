@@ -46,7 +46,7 @@ var q6={
   ans:"Cricket"
 }
 var q7={
-  ques: "What's my age if I am a millenial? ",
+  ques: "What's my age? ",
   ans: "20"
 }
 var q8={
